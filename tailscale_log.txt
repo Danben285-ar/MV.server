@@ -152,3 +152,5 @@ Perhaps ip6tables or your kernel needs to be upgraded.
 2024/07/28 00:59:43 dns: Resolvercfg: {Routes:{.:[127.0.0.53 168.63.129.16] ts.net.:[199.247.155.53 2620:111:8007::53]} Hosts:1 LocalDomains:[tail8d8ab4.ts.net.]+65arpa, cloud="azure"}
 2024/07/28 00:59:43 dns: OScfg: {Nameservers:[100.100.100.100] SearchDomains:[tail8d8ab4.ts.net. gbuypll1kt3upd1osau5klzz5b.cx.internal.cloudapp.net.] }
 2024/07/28 00:59:43 restarted resolved after 1ms
+2024/07/28 01:08:00 Received error: PollNetMap: unexpected EOF
+2024/07/28 01:08:01 control: netmap: got new dial plan from control
